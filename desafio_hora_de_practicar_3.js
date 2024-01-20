@@ -63,8 +63,7 @@ async function ejecutarEnOrden() {
     await contadorConEspera();
     await decrecer();
     await cuentaProgresiva();
-    await cuentaRegresiva
-();
+    await cuentaRegresiva();
 }
 
 //LLama a la funcion ejecutarEnOrden 

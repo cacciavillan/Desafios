@@ -24,8 +24,8 @@ async function lenguajeFavorito() {
 async function sumaDeValores() {
     valor1 = 9
     valor2 = 7
-    resultado = valor1 - valor2
-    log(`La diferencia entre ${valor1} y ${valor2} es igual a ${resultado}`)
+    resultado = valor1 + valor2
+    log(`La suma de ${valor1} y ${valor2} es igual a ${resultado}`)
 }
 
 async function edadUsuario() {
