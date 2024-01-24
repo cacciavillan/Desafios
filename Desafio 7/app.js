@@ -110,10 +110,10 @@ function generarTablaMultiplicar(numero) {
 }
 
 
-//calculadora();
-//factorial();
-//conversorReales();
-//calculadoraAreaRectangular();
-//calculadoraAreaCircular();
+calculadora();
+factorial();
+conversorReales();
+calculadoraAreaRectangular();
+calculadoraAreaCircular();
 let valor = +prompt("Ingrese un número del 1 al 10");
 generarTablaMultiplicar(valor)
