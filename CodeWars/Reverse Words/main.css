@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(imagenes/night.jpeg);
+}
+
+
+.caja-juego {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(31, 30, 30);
+    border: 2px solid grey;
+    text-align: center;
+        
+}
+
+.caja-juego legend {
+    background-color: rgb(9, 23, 83);
+    border: 2px solid rgb(13, 52, 158);
+    margin: 5px;
+    padding: 10px;
+    font-family: system-ui;
+    color: white;
+
+}
+
+.caja-juego input {
+    width: 50%;
+    margin: 5px;
+}
+
+.caja-juego button {
+    display: block;
+    margin: 5px auto;
+    position: relative;
+}
+
+.caja-juego textarea {
+    width: 50%;
+    margin: 5px;
+}
